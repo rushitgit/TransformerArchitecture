@@ -23,8 +23,9 @@ The project consists of three Python files:
 1. Clone the repository:
 ```bash
 git clone https://github.com/rushitgit/TransformerArchitecture.git
-cd transformer-visualizer
+(make a venv- optional)
 ```
+
 
 2. Install the required dependencies:
 ```bash
