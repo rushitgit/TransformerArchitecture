@@ -22,7 +22,7 @@ The project consists of three Python files:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/transformer-visualizer.git
+git clone https://github.com/rushitgit/TransformerArchitecture.git
 cd transformer-visualizer
 ```
 
